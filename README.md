@@ -32,7 +32,7 @@
 <div class="post"><img src="thu-bong-capybara-deo-rua.png" width="580" height="580" alt=""/> 
   <p>Gấu Capybara Đeo Balo Rùa giá 75.000 VNĐ</p>
 </div>
-<div class="post"><img src="bơ.jpeg"" width="580" height="580" alt=""/> 
+<div class="post"><img src="bơ.jpeg"width="580" height="580" alt=""/> 
 <p>Gấu Capybara xanh trái bơ giá 150.000 VNĐ</p>
 </div>
 </div>
